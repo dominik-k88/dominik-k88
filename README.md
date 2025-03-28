@@ -55,8 +55,8 @@ I am a **junior front-end developer** with a passion for technology, continuous 
 <h2> Contact me</h2>
 
 <div align="left">
-  <a href="https://www.facebook.com/profile.php?id=100011298286827" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="https://www.linkedin.com/in/dominik-klus%C3%A1%C4%8Dek-384b10358/"_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:dominik88k@seznam.cz" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
